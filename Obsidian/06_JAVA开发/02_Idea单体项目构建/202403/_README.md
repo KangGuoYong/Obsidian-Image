@@ -1,1 +1,1 @@
-SPringcloud  ES(+images)    +leadnews
+SPringcloud  ES(+images)    +lead   news
